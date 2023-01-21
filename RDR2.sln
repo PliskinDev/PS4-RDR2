@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RDR2", "RDR2\RDR2.vcxproj", "{408BA8F8-2507-4D63-B672-165F52152522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408BA8F8-2507-4D63-B672-165F52152522}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{408BA8F8-2507-4D63-B672-165F52152522}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{408BA8F8-2507-4D63-B672-165F52152522}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{408BA8F8-2507-4D63-B672-165F52152522}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
